@@ -29,6 +29,8 @@
 <div id="problem_output" class="problem-text">
 <p>첫째 줄에 터진 풍선의 번호를 차례로 나열한다.</p>
 
+# 메모리 초과로 풀 수 없는 문제 - 제출된 node.js 목록에 메모리초과밖에 없음
+
 </div>
 </section>
 
